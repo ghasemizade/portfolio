@@ -4,10 +4,14 @@
     margin: 0;
 }
 body{
-    background-color: beige;
+    background-color: #161623ec;
+    font-family: "Dana";
 }
 .title{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 5rem;
+    color: #fff;
+    font-size: 5rem;
 }
